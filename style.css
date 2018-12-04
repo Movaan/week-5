@@ -18,11 +18,11 @@ body {
     background-color: #698F3F;
     flex-wrap: nowrap;
     color: white;
-    height: 60px;
+    height: 3.75rem;
     align-items: center;
     }
     .site-name { 
-        font-size: 24px;
+        font-size: 1.5rem;
         font-weight: bold;
         flex: 3 1 auto;
         padding: 1.5rem;
@@ -34,7 +34,7 @@ body {
     .navigation-list {
             display: flex;
             justify-content: space-around;
-            font-size: 18px;
+            font-size: 1.125rem;
             margin: auto;
             list-style: none;
     }   
@@ -95,7 +95,7 @@ p {
 .footer{
     background: #804E49;
     color: white;
-    font-size: 18px;
+    font-size: 1.125rem;
     text-align: center;
 }
     
